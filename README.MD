@@ -332,19 +332,19 @@ Add screenshots here:
 
 ### Grafana Dashboard
 
-![Grafana Dashboard](doc\ss\graphana-dashboard.png)
+![Grafana Dashboard](https://github.com/AdarshKanaujiya/ServicePulse/blob/main/doc/ss/graphana-dashboard.png)
 
 ### Prometheus Metrics
 
-![Prometheus Metrics](doc\ss\prometheus.png)
+![Prometheus Metrics](https://github.com/AdarshKanaujiya/ServicePulse/blob/main/doc/ss/prometheus.png)
 
 ### Service Dashboard
 
-![Service Dashboard](doc\ss\servicedashboard.png)
+![Service Dashboard](https://github.com/AdarshKanaujiya/ServicePulse/blob/main/doc/ss/servicedashboard.png)
 
 ### Incident Management
 
-![Incident Management](doc\ss\incidents.png)
+![Incident Management](https://github.com/AdarshKanaujiya/ServicePulse/blob/main/doc/ss/incidents.png)
 
 ---
 
