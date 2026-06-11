@@ -1,0 +1,5 @@
+docs
+# Ignore heavy binaries
+prometheus/prometheus.exe
+prometheus/promtool.exe
+prometheus/data/
