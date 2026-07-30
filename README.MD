@@ -1,5 +1,7 @@
 # ServicePulse
 
+https://gitdiagram.com/AdarshKanaujiya/ServicePulse
+
 A full-stack service monitoring and support engineering platform that simulates real-world operational workflows used by Support, SRE, and Platform Engineering teams.
 
 ServicePulse provides centralized service monitoring, log management, automated alerting, incident tracking, ticket management, SQL analytics, and observability through Prometheus and Grafana.
